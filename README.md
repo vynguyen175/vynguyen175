@@ -1,56 +1,86 @@
 <div align="center">
-
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vy+Nguyen+%F0%9F%91%8B;Mobile+%7C+Web+%7C+Python+Developer;Building+things+that+matter)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### About Me
-
-- Currently working on **something awesome**
-- Learning **new technologies every day**
-- Open to collaborating on **interesting projects**
-
----
-
-### Tech Stack
-
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/vynguyen175">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vynguyen175&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vynguyen175&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vynguyen175&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vynguyen175&color=6366f1&style=flat-square)
-
-</div>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+  </div>                                      
+                                          
+  <h1 align="center">Hey, I'm Vy 👋</h1>
+  <p align="center">                                                                                                                                                                     
+    <strong>Full-Stack Developer · Toronto, Canada</strong><br>
+    <em>#1 Team in Canada at IEEEXtreme 19.0 · Open-Source Contributor to Next.js</em>                                                                                                   
+  </p>                                                         
+                                          
+  <p align="center">                                                                                                                                                                     
+    <a href="https://www.vynguyen.dev"><img src="https://img.shields.io/badge/-vynguyen.dev-F0C946?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>                         
+    <a href="https://www.linkedin.com/in/vy-nguyen-71629729b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>         
+    <a href="mailto:vyn13217@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>                                      
+  </p>                                                         
+                                                                                                                                                                                         
+  ---                                                                                                                                                                                    
+                                                                                                                                                                                         
+  ```text                                                                                                                                                                                
+   🎓  Computer Programming & Analysis @ George Brown College — Dean's List, 3.8 GPA                                                                                                     
+   🏆  #1 in Canada at IEEEXtreme 19.0 (72nd globally / 19,000+ participants)
+   🔧  Open-source contributor to Next.js (vercel/next.js)                                                                                                                               
+   🥇  Hackathon winner · Scrum Fundamentals Certified         
+   💼  3 years building web apps, AI tools, and cross-platform products                                                                                                                  
+                                              
+  ---                                                                                                                                                                                    
+  🛠 Tech Stack                                                 
+                                                                                                                                                                                         
+  Frontend & Mobile                                            
+                                                                                                                                                                                         
+  https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black                                                                                                
+  https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js
+  https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white                                                                                      
+  https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+  https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
+  https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white                                                                                                
+  https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white
+  https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white                                                                                       
+                                                                                                                                                                                         
+  Backend                                                                                                                                                                                
+                                                                                                                                                                                         
+  https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white                                                                                            
+  https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white                                                                                                
+  https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white                                                                                        
+  https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white                                                                                              
+  https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+  https://img.shields.io/badge/-Express-000?style=flat-square&logo=express                                                                                                               
+                                                                                                                                                                                         
+  Databases & Cloud                       
+                                                                                                                                                                                         
+  https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white                                                                                            
+  https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white                                                                              
+  https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel                                                                                                                 
+  https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white
+  https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+                                                                                                                                                                                         
+  AI / ML                                 
+                                                                                                                                                                                         
+  https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white                                                                                              
+  https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white                                                                                  
+  https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white                                                                                                
+  https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
+                                          
+  ---                                                                                                                                                                                    
+  📊 GitHub Stats                                                                                                                                                                        
+                                                                                                                                                                                         
+  ---                                                                                                                                                                                    
+  🚀 Featured Projects                                         
+                                                                                                                                                                                         
+  ┌─────────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────┬─────────────────────────────────┐
+  │                           Project                           │                      Description                       │              Stack              │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ https://sushirock.vercel.app/                               │ Restaurant website with online ordering & reservations │ Next.js, TypeScript, Tailwind   │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ https://gameboxd-web-app.vercel.app/                        │ Social gaming platform — web + Android                 │ Next.js, MongoDB, Java          │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ https://vizion-byvynguyen.streamlit.app/                    │ AI-powered data visualization & ML insights            │ Python, Streamlit, Scikit-learn │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤                             
+  │ https://evo-byvynguyen.vercel.app/                          │ Luxury e-commerce fashion platform                     │ Next.js, MongoDB, Tailwind      │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤                             
+  │ https://smartinventorymanagement-production.up.railway.app/ │ Full-stack inventory management system                 │ ASP.NET Core, C#, SQL Server    │                             
+  ├─────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┼─────────────────────────────────┤
+  │ https://vynguyen175.github.io/Gomoku/web/                   │ Strategy game with Minimax AI                          │ JavaScript, Alpha-Beta Pruning  │                             
+  └─────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────┴─────────────────────────────────┘
+                                                                                                                                                                                         
+  ---    
