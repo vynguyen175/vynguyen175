@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/ZS57kdXudVqsDX0TLH/giphy.gif" width="400" />
 </div>
 
-<h1 align="center">Hey, I'm Vy 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vy" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</p>
 <p align="center">
   <strong>Full-Stack Developer · Toronto, Canada</strong><br>
   <em>#1 Team in Canada at IEEEXtreme 19.0 · Open-Source Contributor to Next.js</em>
@@ -16,17 +19,15 @@
 
 ---
 
-```text
- 🎓  Computer Programming & Analysis @ George Brown College — Dean's List, 3.8 GPA
- 🏆  #1 in Canada at IEEEXtreme 19.0 (72nd globally / 19,000+ participants)
- 🔧  Open-source contributor to Next.js (vercel/next.js)
- 🥇  Hackathon winner · Scrum Fundamentals Certified
- 💼  3 years building web apps, AI tools, and cross-platform products
-```
+- Computer Programming & Analysis @ George Brown College — Dean's List, 3.8 GPA
+- #1 in Canada at IEEEXtreme 19.0 (72nd globally / 19,000+ participants)
+- Open-source contributor to Next.js (vercel/next.js)
+- Hackathon winner · Scrum Fundamentals Certified
+- 3 years building web apps, AI tools, and cross-platform products
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Frontend & Mobile**
 
@@ -65,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vynguyen175&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
@@ -78,21 +79,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|------------|-------|
-| [**Sushi Rock**](https://sushirock.vercel.app/) | Restaurant website with online ordering & reservations | Next.js, TypeScript, Tailwind |
-| [**Gameboxd**](https://gameboxd-web-app.vercel.app/) | Social gaming platform — web + Android | Next.js, MongoDB, Java |
-| [**Vizion**](https://vizion-byvynguyen.streamlit.app/) | AI-powered data visualization & ML insights | Python, Streamlit, Scikit-learn |
-| [**ÉVO**](https://evo-byvynguyen.vercel.app/) | Luxury e-commerce fashion platform | Next.js, MongoDB, Tailwind |
-| [**Smart Inventory**](https://smartinventorymanagement-production.up.railway.app/) | Full-stack inventory management system | ASP.NET Core, C#, SQL Server |
-| [**Gomoku AI**](https://vynguyen175.github.io/Gomoku/web/) | Strategy game with Minimax AI | JavaScript, Alpha-Beta Pruning |
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vynguyen175&color=F0C946&style=flat-square&label=Profile+Views" />
 </p>
-
-<p align="center"><em>"Code is like humor. When you have to explain it, it's bad."</em></p>
