@@ -21,7 +21,6 @@
 
 - Computer Programming & Analysis @ George Brown College — Dean's List, 3.8 GPA
 - #1 in Canada at IEEEXtreme 19.0 (72nd globally / 19,000+ participants)
-- Open-source contributor to Next.js (vercel/next.js)
 - Hackathon winner · Scrum Fundamentals Certified
 - 3 years building web apps, AI tools, and cross-platform products
 
