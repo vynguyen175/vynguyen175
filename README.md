@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <strong>Full-Stack Developer · Toronto, Canada</strong><br>
-  <em>#1 Team in Canada at IEEEXtreme 19.0 · Open-Source Contributor to Next.js</em>
+  <em>#1 Team in Canada at IEEEXtreme 19.0</em>
 </p>
 
 <p align="center">
